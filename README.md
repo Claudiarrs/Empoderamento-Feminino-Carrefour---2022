@@ -15,3 +15,9 @@ Link: Pitch.video.carrefour (3).mp4 (file://DESKTOP-ROKGLFR/Users/Usuario/Downlo
 
 https://www.canva.com/design/DAD7gqq6kuw/r55r7n42Q47xtpZq18yAQg/edit#:~:text=https%3A//www.canva.com/design/DAD7gqq6kuw/view%3Futm_content%3DDAD7gqq6kuw%26utm_campaign%3Ddesignshare%26utm_medium%3Dlink%26utm_source%3Dpublishsharelink
 Adiciono novo link, atualizado com pitch video.
+
+
+Pesquisa sobre API: 
+Link:  http://www.linhadecodigo.com.br/artigo/3712/testando-servicos-web-api-com-postman.aspx
+
+
