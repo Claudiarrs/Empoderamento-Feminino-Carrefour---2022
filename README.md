@@ -20,4 +20,9 @@ Adiciono novo link, atualizado com pitch video.
 Pesquisa sobre API: 
 Link:  http://www.linhadecodigo.com.br/artigo/3712/testando-servicos-web-api-com-postman.aspx
 
+Projetinho Simples:
+Link:https://www.canva.com/design/DAE9IvytNHc/S75tS3iRgC0N-NOGzXaHbA/edit
+
+Problema:    A Falta de Informação
+Solução:     Levar Educação, informação para que todas as mulheres se tornem "Empoderadas de seu valor e possam reinvindicar seus Direitos" 
 
